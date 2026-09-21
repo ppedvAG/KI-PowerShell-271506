@@ -14,4 +14,5 @@ KursRepository zu Kurs PowerShell mit AI – Automatisierung für Clevere der pp
         - Comment Based Help
         - Verbose
         - Debug
-        
+    - Prompting
+    - Chat vs Agent / CoPilot
